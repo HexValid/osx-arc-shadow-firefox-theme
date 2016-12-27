@@ -14,7 +14,7 @@
    id="svg4306"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="close.svg"
+   sodipodi:docname="minimize_unfocused.svg"
    style="enable-background:new">
   <defs
      id="defs4308">
@@ -81,9 +81,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="9.3270896"
-     inkscape:cy="10.966175"
+     inkscape:zoom="21.791667"
+     inkscape:cx="3.9005737"
+     inkscape:cy="12"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -134,18 +134,18 @@
      id="layer1"
      transform="translate(0,-1028.3622)">
     <g
-       transform="matrix(0.01265625,0,0,-0.01265625,4.9280396,1046.8821)"
-       id="g3337">
+       transform="matrix(0.01265625,0,0,-0.01265625,5.2298696,1046.7295)"
+       id="g3340">
       <path
          inkscape:connector-curvature="0"
-         d="m 558.77702,-37.935253 c 305.45606,0 553.08158,247.625863 553.08158,553.085803 0,305.46124 -247.62552,553.08675 -553.08158,553.08675 -305.46512,0 -553.0913044,-247.62551 -553.0913044,-553.08675 0,-305.45994 247.6261844,-553.085803 553.0913044,-553.085803"
-         style="fill:#d52735;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="path4094" />
+         d="m 556.52327,-28.387679 c 293.53206,0 531.48703,237.950789 531.48703,531.486569 0,293.52709 -237.95497,531.48201 -531.48703,531.48201 -293.53081,0 -531.486296,-237.95492 -531.486296,-531.48201 0,-293.53578 237.955486,-531.486569 531.486296,-531.486569"
+         style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path4199" />
       <path
          inkscape:connector-curvature="0"
-         d="m 558.77747,1.5676633 c 283.63699,0 513.57493,229.9429467 513.57493,513.5851867 0,283.64355 -229.93794,513.58155 -513.57493,513.58155 -283.64749,0 -513.585581,-229.938 -513.585581,-513.58155 0,-283.64224 229.938091,-513.5851867 513.585581,-513.5851867"
-         style="fill:#f25056;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="path4096" />
+         d="m 556.52327,16.813632 c 268.56611,0 486.28523,217.715428 486.28523,486.285258 0,268.5599 -217.71912,486.28022 -486.28523,486.28022 -268.56486,0 -486.285011,-217.72032 -486.285011,-486.28022 0,-268.56983 217.720151,-486.285258 486.285011,-486.285258"
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path4201" />
     </g>
   </g>
 </svg>
